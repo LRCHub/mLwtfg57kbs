@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "KING / 星街すいせい(Cover)",
+  "base_artist": "星街すいせい",
+  "createdAt": "2025-12-02T02:38:37.523815Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Almost Persuaded - Original King Recordings",
+      "artist": "David Houston",
+      "has_synced": true,
+      "path": "select/01_Almost_Persuaded_-_Original_King_Recordings_David_Houston.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bob Wills Is Still The King",
+      "artist": "Asleep at the Wheel feat. Clint Black",
+      "has_synced": false,
+      "path": "select/02_Bob_Wills_Is_Still_The_King_Asleep_at_the_Wheel_feat._Clint_Black.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bob Wills Is Still The King (Album Version)",
+      "artist": "Clint Black",
+      "has_synced": false,
+      "path": "select/03_Bob_Wills_Is_Still_The_King_(Album_Version)_Clint_Black.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
+      "artist": "Miranda Lambert feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack",
+      "has_synced": true,
+      "path": "select/04_Fooled_Around_and_Fell_in_Love_(feat._Maren_Morris,_Elle_King,_Ashley_McBryde,_T_Miranda_Lambert_feat._Maren_Morris,_Elle_King,_Ashley_McBryde,_Tenille_Townes_&_.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "From a Jack to a King",
+      "artist": "Ricky Van Shelton",
+      "has_synced": false,
+      "path": "select/05_From_a_Jack_to_a_King_Ricky_Van_Shelton.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "From A Jack To A King (Album Version)",
+      "artist": "Ricky Van Shelton",
+      "has_synced": false,
+      "path": "select/06_From_A_Jack_To_A_King_(Album_Version)_Ricky_Van_Shelton.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "King of the Road",
+      "artist": "Roger Miller",
+      "has_synced": true,
+      "path": "select/07_King_of_the_Road_Roger_Miller.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "King Of The Road - Single Version",
+      "artist": "Roger Miller",
+      "has_synced": true,
+      "path": "select/08_King_Of_The_Road_-_Single_Version_Roger_Miller.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "King Of The Road (Single Version)",
+      "artist": "Roger Miller",
+      "has_synced": true,
+      "path": "select/09_King_Of_The_Road_(Single_Version)_Roger_Miller.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "King of the Road",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/10_King_of_the_Road_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "King of the Road (Album Version)",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/11_King_of_the_Road_(Album_Version)_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stubborn Pride (feat. Marcus King)",
+      "artist": "Zac Brown Band",
+      "has_synced": false,
+      "path": "select/12_Stubborn_Pride_(feat._Marcus_King)_Zac_Brown_Band.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The King Of Broken Hearts - Pure Country/Soundtrack Version",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/13_The_King_Of_Broken_Hearts_-_Pure_Country_Soundtrack_Version_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Philosopher King",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/14_Philosopher_King_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Down With the King",
+      "artist": "Run-DMC",
+      "has_synced": true,
+      "path": "select/15_Down_With_the_King_Run-DMC.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Imperial Tyranny (Feat. King M",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/16_Imperial_Tyranny_(Feat._King_M_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "King of Rock",
+      "artist": "Run-DMC",
+      "has_synced": true,
+      "path": "select/17_King_of_Rock_Run-DMC.lrc"
+    }
+  ]
+}
